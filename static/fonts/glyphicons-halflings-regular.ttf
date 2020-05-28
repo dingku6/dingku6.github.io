@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>未找到页面 | 鼎酷启航</title>
+<meta name="theme-color" content="#2C2E2F" />
+<meta name="keywords" content="鼎酷启航，省心启航，😊轻快省心的上网体验 🎈，dingku.xyz">
+<meta name="description" content="鼎酷启航，省心启航；💎常用的高效办公导航，设计师素材导航，自定义网址导航，轻快上网,从鼎酷启航开始。www.dingku.xyz">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://dingku.xyz">
+<meta property="og:title" content="鼎酷启航，省心启航；💎常用的高效办公导航，设计师素材导航，自定义网址导航，轻快上网,从鼎酷启航开始。www.dingku.xyz">
+<meta property="og:description" content="鼎酷启航，省心启航，😊轻快省心的上网体验 🎈，dingku.xyz">
+<meta property="og:image" content="https://dingku.xyz/wp-content/themes/WebStack-master/screenshot.jpg">
+<meta property="og:site_name" content="鼎酷启航，省心启航；💎常用的高效办公导航，设计师素材导航，自定义网址导航，轻快上网,从鼎酷启航开始。www.dingku.xyz">
+<link rel="shortcut icon" href="https://dingku.xyz/wp-content/uploads/2020/04/logo-1.png">
+<link rel="apple-touch-icon" href="https://dingku.xyz/wp-content/uploads/2020/04/logo-1.png">
+<link rel='stylesheet' id='dashicons-css'  href='https://dingku.xyz/wp-includes/css/dashicons.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='https://dingku.xyz/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.12.2' type='text/css' media='all' />
+<link rel='stylesheet' id='nines_music_css-css'  href='https://dingku.xyz/wp-content/plugins/nines-music/static/APlayer.min.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://dingku.xyz/wp-content/plugins/menu-icons/vendor/codeinwp/icon-picker/css/types/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://dingku.xyz/wp-content/themes/WebStack-master/css/bootstrap.css?ver=1.1422' type='text/css' media='all' />
+<link rel='stylesheet' id='nav-css'  href='https://dingku.xyz/wp-content/themes/WebStack-master/css/nav.css?ver=1.1422' type='text/css' media='all' />
+<script type='text/javascript' src='https://dingku.xyz/wp-content/themes/WebStack-master/js/jquery-1.11.1.min.js?ver=1.1422'></script>
+<script type='text/javascript' src='https://dingku.xyz/wp-content/plugins/nines-music/static/APlayer.min.js?ver=1.3.3'></script>
+<style><meta name="360-site-verification" content="15f80b51b9c7f5c5046f767a9cb945f8" />
+<meta name="wlhlauth" content="c659d45e8c72acf9ff9504564e276403"/>
+
+</style></head> 
+ <body class="page-body white">
+    <div class="page-container">
+      
+
+
+<style type="text/css">
+.data-null {text-align: center;padding:100px 0}
+.data-null h1 {font-size: 6rem;padding: 0;}
+.data-null .btn-home {color: #fff;position: relative;top: 0;padding: 10px 75px;background: #f1404b;font-weight: 600;border-radius: 900px;transition: .2s;box-shadow: 0px 5px 20px -3px rgba(249, 100, 90, .6);}
+.data-null .btn-home:hover {top:2px;background:#333;box-shadow:none;transition:.2s}
+.screen-reader-text{display: none;}
+</style>
+
+		<div class="main-content">
+			<div class="row">
+				<div class="col-12 col-lg-12">
+					<section class="data-null">
+			            <h1 class="font-theme">404</h1>
+			            <p>抱歉，没有你要找的内容...</p>
+                      	<div style="margin-top: 30px">
+							<a class="btn-home" href="https://dingku.xyz">返回首页</a>
+                        </div>
+			        </section>
+				</div>
+			</div>
+            <footer class="main-footer sticky footer-type-1">
+                <div class="go-up">
+                    <a href="#" rel="go-top">
+                        <i class="fa fa-angle-up"></i>
+                    </a>
+                </div>
+                <div class="footer-inner">
+                    <div class="footer-text">
+                        Copyright © 2020 鼎酷启航 <a href="http://www.beian.miit.gov.cn/" target="_blank" rel="link noopener">豫ICP备19035888号 </a>                        &nbsp;&nbsp;Design by <a href="http://webstack.cc" target="_blank"><strong>Webstack</strong></a>&nbsp;&nbsp;Modify by <a href="https://www.iowen.cn" target="_blank"><strong>一为</strong></a>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+<div id="nines_music" class="aplayer"></div><script> window.onload = function () {var ap = new APlayer({"element":document.getElementById('nines_music'),"lrcType":3,"loop":"all","fixed":true,"mutex":true,"autoplay":false});var data = JSON.parse('[{\"id\":1367447650,\"name\":\"\\u5c0f\\u65f6\\u4ee33\\uff1a\\u65f6\\u95f4\\u716e\\u96e8\",\"artist\":[\"Silu Wang\"],\"album\":\"Rendezvous Vol. 1: The Path of Wind\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/D_L-9rnrgtZgVEHMJXpdOg==\\/109951164096909266.jpg?param=300y300\",\"url_id\":1367447650,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=1367447650\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=1367447650\"},{\"id\":1367449468,\"name\":\"\\u4f60\\u7684\\u540d\\u5b57\\uff1a\\u7ea6\\u4f1a\",\"artist\":[\"Silu Wang\"],\"album\":\"Rendezvous Vol. 1: The Path of Wind\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/D_L-9rnrgtZgVEHMJXpdOg==\\/109951164096909266.jpg?param=300y300\",\"url_id\":1367449468,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=1367449468\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=1367449468\"},{\"id\":1308818967,\"name\":\"\\u98d8\\u5411\\u5317\\u65b9 (Live)\",\"artist\":[\"\\u90a3\\u543e\\u514b\\u70ed-NW\",\"\\u5c24\\u957f\\u9756\"],\"album\":\"\\u4e2d\\u56fd\\u65b0\\u8bf4\\u5531 \\u7b2c10\\u671f\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/D-mpVLLwMrA-hPu0QPYUNQ==\\/109951163551410648.jpg?param=300y300\",\"url_id\":1308818967,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=1308818967\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=1308818967\"},{\"id\":34779256,\"name\":\"\\u7ae5\\u5e74\",\"artist\":[\"\\u5f90\\u68a6\\u5706\"],\"album\":\"\\u66fe\\u7ecf\\u7684\\u7eaf\\u97f3\\u4e50\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/iZmSymVXGufZsPEdngv2yg==\\/18163932091150372.jpg?param=300y300\",\"url_id\":34779256,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=34779256\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=34779256\"},{\"id\":527223995,\"name\":\"\\u4f60\\u7684\\u540d\\u5b57\\u63d2\\u66f2\\u300a\\u9ec4\\u660f\\u4e4b\\u65f6\\u300b\",\"artist\":[\"Ericlan\"],\"album\":\"NE YE\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/PbL1GUC4XPtH-64gs0skoQ==\\/109951163096166302.jpg?param=300y300\",\"url_id\":527223995,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=527223995\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=527223995\"},{\"id\":448754936,\"name\":\"\\u306a\\u3093\\u3067\\u3082\\u306a\\u3044\\u3084-\\u4f60\\u7684\\u540d\\u5b57\",\"artist\":[\"ANK-\\u745b\"],\"album\":\"\\u4f60\\u7684\\u540d\\u5b57\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/5AbSsTZTvKPZZAMv4ZWRsQ==\\/109951162828505216.jpg?param=300y300\",\"url_id\":448754936,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=448754936\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=448754936\"},{\"id\":26664345,\"name\":\"Game Of Thrones\",\"artist\":[\"Ramin Djawadi\"],\"album\":\"Game Of Thrones (Music from the HBO Series) \",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/lbQW9AR-srWv5W7FlBRvpg==\\/18856624416412303.jpg?param=300y300\",\"url_id\":26664345,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=26664345\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=26664345\"},{\"id\":2112355,\"name\":\"Mind Heist\",\"artist\":[\"Zack Hemsey\"],\"album\":\"Inception Trailer\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/FvzMDQq_dw7A69vU1DJfAw==\\/798245441818902.jpg?param=300y300\",\"url_id\":2112355,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=2112355\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=2112355\"},{\"id\":461074907,\"name\":\"\\u5bc2\\u9759\\u4e4b\\u7a7a\",\"artist\":[\"\\u5085\\u8bb8\"],\"album\":\"\\u591c\\u8bed\\u00b7\\u5bc2\\u9759\\u4e4b\\u7a7a\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/SWO7UuIF2yOPpguwI4vXvw==\\/109951162863193280.jpg?param=300y300\",\"url_id\":461074907,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=461074907\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=461074907\"},{\"id\":477841196,\"name\":\"\\u6b66\\u4faf\\u7960\",\"artist\":[\"\\u95eb\\u4e1c\\u709c\",\"\\u9678\\u4e8c\\u80e1\"],\"album\":\"\\u5929\\u671d\\u5143\\u7d20project\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/xJ-tynstirhWkpggdFEicw==\\/109951164333072115.jpg?param=300y300\",\"url_id\":477841196,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=477841196\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=477841196\"},{\"id\":425570167,\"name\":\"\\u82b1\\u00a0\\u304c\\u00a0\\u3068\\u3076\\u00a0\\u98db\\u3076\\u65e0\\u635f\\u7248\",\"artist\":[\"\\u90b1\\u6709\\u53e5\",\"\\u674e\\u5fb7\\u594e\"],\"album\":\"\\u51b0\\u67ab\\u96ea\\u604b\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/Q_mm2I-F1e1PFP4xfDVAvw==\\/18415720254126874.jpg?param=300y300\",\"url_id\":425570167,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=425570167\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=425570167\"},{\"id\":1407304063,\"name\":\"\\u6d41\\u52a8\\u7684\\u57ce\\u5e02\\uff08\\u7ffb\\u81ea \\u6797\\u6d77\\uff09 \",\"artist\":[\"\\u6c6a\\u672b\"],\"album\":\"\\u522b\\u71ac\\u591c\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/rnzXfV9MaHcWvnBR8C_SNA==\\/109951164568805965.jpg?param=300y300\",\"url_id\":1407304063,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=1407304063\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=1407304063\"},{\"id\":1326805862,\"name\":\"My Heart Will Go On\",\"artist\":[\"\\u6cf0\\u5766\\u5c3c\\u514b\\u53f7\\u4e50\\u961f\"],\"album\":\"\\u56de\\u5230\\u6cf0\\u5766\\u5c3c\\u514b\\u53f7\",\"pic_id\":\"https:\\/\\/p3.music.126.net\\/uSEViCFEglVcBR8ma5iZYg==\\/109951163676555713.jpg?param=300y300\",\"url_id\":1326805862,\"lyric_id\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_lrc&id=1326805862\",\"source\":\"netease\",\"mp3_url\":\"https:\\/\\/dingku.xyz\\/wp-admin\\/admin-ajax.php?action=nines_get_music_mp3&id=1326805862\"}]');for (var i = 0; i < data.length; i++) {ap.list.add([{name: data[i].name,artist: data[i].artist[0],url: data[i].mp3_url,cover: data[i].pic_id,lrc: data[i].lyric_id}]);}}</script><script type='text/javascript' src='https://dingku.xyz/wp-content/themes/WebStack-master/js/bootstrap.min.js?ver=1.1422'></script>
+<script type='text/javascript' src='https://dingku.xyz/wp-content/themes/WebStack-master/js/TweenMax.min.js?ver=1.1422'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var theme = {"ajaxurl":"https:\/\/dingku.xyz\/wp-admin\/admin-ajax.php","addico":"https:\/\/dingku.xyz\/wp-content\/themes\/WebStack-master\/images\/add.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dingku.xyz/wp-content/themes/WebStack-master/js/app.js?ver=1.1422'></script>
+<script type='text/javascript' src='https://dingku.xyz/wp-content/themes/WebStack-master/js/lazyload.min.js?ver=1.1422'></script>
+<!-- 自定义代码 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?4a604832459f2fa8c940044ad1a0a2a2";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script><!-- end 自定义代码 -->
+</body>
+</html>
