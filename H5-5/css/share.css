@@ -1,0 +1,130 @@
+.bg {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/bg@2x.jpg);
+    background-position: center top;
+    background-size: 100% 100%;
+}
+
+.mar {
+    padding: 1.82rem 0.18rem 0;
+}
+
+.mask {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top:1.12rem;
+    padding-bottom: 4.52rem;
+}
+
+.mask .top {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mask .top span {
+    width: 1.6rem;
+    height: 1.6rem;
+    background-image: url(../images/head-portrait@2x.png);
+    background-position: center top;
+    background-size: 100% 100%;
+    display: block;
+}
+
+.mask .top p {
+    font-size: 0.4rem;
+    font-family: PingFang SC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 0.4rem;
+}
+
+.mask .center {
+    font-size: 0.44rem;
+    line-height: 0.66rem;
+    font-family: PingFang SC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 1px;
+    text-align: center;
+    padding-top: 1.26rem;
+    
+}
+
+.button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button .installed {
+    width: 6.2rem;
+    height: 1rem;
+    background-image: url(../images/installed@2x.png);
+    background-position: center top;
+    background-size: 100% auto;
+}
+
+.button .uninstalled {
+    margin-top: 0.3rem;
+    width: 6.2rem;
+    height: 1rem;
+    background-image: url(../images/uninstalled@2x.png);
+    background-position: center top;
+    background-size: 100% auto;
+    -webkit-animation: anUninstalled 4.5s ease-in-out infinite;
+            animation: anUninstalled 4.5s ease-in-out infinite;
+}
+
+
+
+@-webkit-keyframes anUninstalled {
+    0% {
+        transform: scale(1);
+    }
+
+    25% {
+        transform: scale(0.9);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    75% {
+        transform: scale(0.9);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+
+
+@keyframes anUninstalled {
+    0% {
+        transform: scale(1);
+    }
+
+    25% {
+        transform: scale(0.9);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    75% {
+        transform: scale(0.9);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
