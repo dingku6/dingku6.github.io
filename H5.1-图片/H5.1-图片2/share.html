@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="yes" name="apple-touch-fullscreen">
+    <meta content="telephone=no,email=no" name="format-detection">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <title>团宇宙</title>
+    <link href="css/index.css" rel="stylesheet">
+    <link href="css/share.css" rel="stylesheet">
+</head>
+<body>
+   <div class="bg">
+        <div class="mar">
+            <div class="mask">
+                <div class="top">
+                    <span></span>
+                    <p id="nickname">@晚灯一梦</p>
+                </div>
+                <div class="center"> 邀请你<br/>成为TA的好友</div>
+                <div class="bottom"></div>
+            </div>    
+        </div>
+        
+        <div class="button">
+            <span class="installed" onclick="openApp()"></span>
+            <span class="uninstalled" onclick="appDownload()"></span>
+        </div>
+   </div> 
+
+
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript">
+        
+        const ua = navigator.userAgent;
+        const androidReg = /android/gi;
+        const iosReg = /iphone|ipad/gi;
+
+        // 设置背景高度
+        //document.querySelectorAll('.bg')[0].style.height= document.documentElement.clientHeight + 'px'
+
+        // 正式上线请删除或注释此行，放开下面注释变量
+        const queryName = getUrlParam('code') || '6a8b17b4a2aa40f43821c9fd164299d5'
+        //const queryName = getUrlParam('code')
+
+        function appDownload(){
+            if (iosReg.test(ua)) {
+              window.location.href = 'https://apps.apple.com/cn/app/id414478124';
+            }else {
+                window.location.href = 'https://webcdn.m.qq.com/webapp/homepage/index.html#/appDetail?apkName=com.tencent.mm&info=044042809665195943CCF37392DA6967';
+            }
+        }
+
+        function openApp(){
+            alert('等待提供')
+        }
+
+        // 获取访问链接参数方法
+        function getUrlParam(name) {
+            //构造一个含有目标参数的正则表达式对象
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+
+            //匹配目标参数
+            var r = window.location.search.substr(1).match(reg);
+
+            //返回参数值
+            if (r != null) return unescape(r[2]); return null;
+        }
+        
+
+        $(function () { 
+            
+            $.ajax({
+                url:"https://rd.api.yurongpobi.com/v1/user/invite/shareQuery?code=" + queryName,
+                type:'get',
+                dataType:'jsonp',
+                jsonp:'callback',
+                success:function(res){
+                    const nickname = res.data.nickName
+                    document.title = nickname + '邀请你来团宇宙'
+                    $("#nickname").text("@" + nickname)
+                },
+                error: function(){
+                    alert('网络请求异常，请稍后再试！')
+                }
+
+            })
+        })    
+    </script>
+</body>
+</html>
