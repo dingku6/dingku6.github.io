@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="团宇宙是一款为不同群体提供专属服务的社群社交APP，年轻人聚集的兴趣交友社区">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <title>团宇宙</title>
+    <link href="css/index.css" rel="stylesheet">
+</head>
+<body>
+    <div class="bg">
+        <div class="header clearfix">
+            <div class="logo left"></div>
+            <div class="name left">团宇宙</div>
+        </div>
+        <div class="main">
+            <div class="sc-des1">“年轻人聚集的兴趣交友社区”</div>
+            <div class="sc-des2">团宇宙是一款为不同群体提供专属服务的社群社交APP</div>
+            <div class="sc-use clearfix">
+                <span class="apple" onclick="appDownload('ios')"><b></b><i>App Store</i></span>
+                <span class="android" onclick="appDownload('android')"><b></b><i>Android</i></span>
+                <span class="qr" id="qrCode"><b></b></span>
+                <div class="qr-code" id="qrCodeImg">
+                    <b></b>
+                    <img src="images/qr-code.png">
+                </div>
+            </div>
+            <div class="sc-contact">
+                <h1>联系我们</h1>
+                <ul class="clearfix">
+                    <li>电话：18645182968</li>
+                    <li>邮箱：yurongpobi@163.com</li>
+                    <li>微信公众号：tuanyuzhou</li>
+                </ul>
+            </div>
+        </div>
+        <div class="company">
+            <span>© 2015-2022 北京宇融破壁科技有限公司</span>
+            <span>京ICP备2021040243号-1</span>
+        </div>    
+    </div>
+    
+    <script type="text/javascript">
+
+        // 设置元素高度为浏览器可视区域高度
+        var clientHeight = document.documentElement.clientHeight
+        if(clientHeight < 900) clientHeight = 900
+        document.querySelectorAll('.bg')[0].style.height= clientHeight + 'px'
+
+        var qrCodeImg = document.getElementById('qrCodeImg')
+        var qrCode = document.getElementById('qrCode')
+
+        // 鼠标移入
+        qrCode.onmouseover = function(){
+            qrCodeImg.style.display = 'block'
+        }
+        // 鼠标移出
+        qrCode.onmouseout = function(){
+            qrCodeImg.style.display = 'none'
+        }
+
+        // 下载方法
+        function appDownload(app){
+            if(app === 'ios'){
+                window.location.href = '#'
+            }else{
+                window.location.href = '#'
+            }
+        }
+    </script>
+</body>
+</html>

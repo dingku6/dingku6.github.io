@@ -1,0 +1,245 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font: 12px/1.5 Microsoft YaHei,Heiti SC,tahoma,arial,Hiragino Sans GB,"\5B8B\4F53",sans-serif;
+  background: #fff;
+  color: #000;
+}
+ol,ul,li {
+  list-style: none;
+}
+img {
+  vertical-align: top;
+  border: 0;
+}
+
+input::-moz-focus-inner {
+  border-color: transparent !important;
+}
+
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  word-break: break-all; /*固定表格宽度，不被撑开*/
+}
+
+input[type="button"]:hover,input[type="submit"]:hover {
+  cursor: pointer;
+}
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+/*清除浮动*/
+.clearfix:after {
+  content: "020";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.clearfix {
+  /* 触发 hasLayout */
+  zoom: 1;
+}
+/* rest css end */
+
+/* page css */
+.bg{  
+  min-width: 1000px;  
+  background-image: url(../images/bg.jpg);
+  background-color: white;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.header {
+   width: 1000px;
+   padding-top: 18px;
+   margin: 0 auto;
+}
+.header .logo{
+    width: 44px;
+    height: 44px;
+    background-image: url(../images/ic_logo.png);
+    background-repeat: no-repeat;
+}
+.header .name{
+    font-size: 32px;
+    font-family: Noto Sans SC-Medium, Noto Sans SC;
+    font-weight: 500;
+    color: #FFFFFF;
+    height: 44px;
+    line-height: 44px;
+    padding-left: 16px;
+}
+.main {
+    min-width:1000px;
+    height: 770px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bottom: 68px;
+    margin-left: -500px;
+    margin-top: -385px;
+    z-index: 10;
+}
+.sc-des1{
+    padding-top:158px;
+    height: 95px;
+    font-size: 68px;
+    font-family: PingFang SC-Semibold, PingFang SC;
+    font-weight: 600;
+    color: #FFFFFF;
+    line-height: 80px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+.sc-des2{
+    padding-top:100px;
+    height: 41px;
+    font-size: 29px;
+    font-family: PingFang SC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #EEEEEE;
+    line-height: 34px;
+    letter-spacing: 5px;
+    text-align: center;
+}
+.sc-use{
+    width: 464px;
+    margin: 40px auto 0;
+    position: relative;
+}
+.sc-use span{
+    height: 56px;
+    background: #FFF;
+    border-radius: 10px;
+    float: left;
+    margin-left: 40px;
+    display: block;
+    cursor: pointer;
+}
+.sc-use span:first-child{
+    margin-left: 0;
+}
+.sc-use span b{
+    display: block;
+    background-color: #fff;
+    float: left; 
+}
+.sc-use span i{
+    height: 26px;
+    font-size: 18px;
+    font-family: Noto Sans SC-Regular, Noto Sans SC;
+    font-weight: 400;
+    color: #000;
+    line-height: 21px;
+    float: left; 
+    font-style: normal;
+    
+}
+.sc-use span.apple,.sc-use span.android{
+    width:160px;
+}
+.sc-use span.qr{
+    width:64px; 
+}
+.sc-use span.apple b{
+    width: 24px;
+    height: 24px;
+    background-image: url(../images/ic_apple.png);
+    margin: 17px 0 0 20px;
+}
+.sc-use span.apple i{
+    margin: 19px 0 0 12px;
+}
+.sc-use span.android b{
+    width: 24px;
+    height: 24px;
+    background-image: url(../images/ic_android.png); 
+    margin: 17px 0 0 28px;
+}
+.sc-use span.android i{
+    margin: 19px 0 0 14px;
+}
+.sc-use span.qr b{
+    width:27px;
+    height: 26px;
+    background-image: url(../images/ic_code.png);
+    margin: 17px 0 0 18px;
+}
+.sc-use .qr-code{
+    width: 142px;
+    height: 142px;
+    padding: 4px;
+    background-color: #fff;
+    position: absolute;
+    top: 70px;
+    right: 0;
+    z-index: 100;
+    display: none;
+}
+.sc-use .qr-code b{
+    width: 0px;
+    border-color: #fff;
+    border-style: solid;
+    border-width: 10px;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    position: absolute;
+    top: -20px;
+    right: 20px;
+    z-index: 200;
+}
+.sc-contact{
+    width: 834px;
+    margin: 130px auto 0;
+}
+.sc-contact h1{
+    height: 45px;
+    font-size: 32px;
+    font-family: PingFang SC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #FFFFFF;
+    text-align: center;
+}
+.sc-contact ul{
+    width: 100%;
+    padding-top: 20px;
+}
+.sc-contact ul li{
+    float: left;
+    width: 33.3%;
+    height: 25px;
+    font-size: 18px;
+    font-family: PingFang SC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #E5E5E5;
+    text-align: center;
+
+}
+.company{
+    width: 1000px;
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    margin-left: -500px;
+    z-index: 10;
+}
+.company span{
+    padding-right: 30px;
+    font-size: 13px;
+    font-family: PingFang SC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #B3B3B9;
+
+}
